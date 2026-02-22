@@ -1,4 +1,4 @@
-base_url = "http://localhost:1111"
+base_url = "https://gathering-moss.github.io/starboard"
 title = "Starboard"
 description = "Steering to my favorite places"
 
