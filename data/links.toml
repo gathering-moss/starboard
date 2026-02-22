@@ -1,85 +1,279 @@
 [[tiles]]
-name = "Perplexity"
-url = "https://perplexity.ai"
-bg_color = "#1debf2"
+name = "Anatolian Archaeology"
+url = "https://www.anatolianarchaeology.net"
+bg_color = "#010101"
 txt_color = "#FFFFFF"
-tags = ["favorite", "search"]
+tags = ["books"]
 
 [[tiles]]
-name = "Google"
-url = "https://google.com"
-bg_color = "#4285F4"
+name = "Bluesky"
+url = "https://bsky.app"
+bg_color = "#006aff"
 txt_color = "#FFFFFF"
-tags = ["favorite", "search"]
+tags = ["social"]
 
 [[tiles]]
-name = "YouTube"
-url = "https://youtube.com"
-bg_color = "#FF0000"
+name = "BookShop"
+url = "https://bookshop.org"
+bg_color = "#57429a"
 txt_color = "#FFFFFF"
-tags = ["favorite", "video"]
+tags = ["book"]
 
 [[tiles]]
-name = "GitHub"
-url = "https://github.com"
-bg_color = "#24292E"
+name = "Brutalist Report"
+url = "https://brutalist.report"
+bg_color = "#000000"
 txt_color = "#FFFFFF"
-tags = ["favorite"]
+tags = ["data"]
 
 [[tiles]]
-name = "Amazon"
-url = "https://amazon.com"
-bg_color = "#FF9900"
-txt_color = "#000000"
-tags = ["shopping"]
+name = "CBC"
+url = "https://www.cbc.ca/lite/trending"
+bg_color = "#ff0000"
+txt_color = "#FFFFFF"
+tags = ["data"]
 
 [[tiles]]
-name = "Spotify"
-url = "https://spotify.com"
-bg_color = "#1DB954"
+name = "CryptDrive"
+url = "https://cryptpad.fr/drive/"
+bg_color = "#0387ff"
 txt_color = "#FFFFFF"
-tags = ["music"]
-
-[[tiles]]
-name = "Netflix"
-url = "https://netflix.com"
-bg_color = "#E50914"
-txt_color = "#FFFFFF"
-tags = ["video"]
-
-[[tiles]]
-name = "Twitter"
-url = "https://twitter.com"
-bg_color = "#1DA1F2"
-txt_color = "#FFFFFF"
-
-[[tiles]]
-name = "Instagram"
-url = "https://instagram.com"
-bg_color = "#E4405F"
-txt_color = "#FFFFFF"
-
-[[tiles]]
-name = "LinkedIn"
-url = "https://linkedin.com"
-bg_color = "#0077B5"
-txt_color = "#FFFFFF"
+tags = ["work"]
 
 [[tiles]]
 name = "Discord"
 url = "https://discord.com"
 bg_color = "#5865F2"
 txt_color = "#FFFFFF"
+tags = ["social"]
+
+[[tiles]]
+name = "DuckDuckGo"
+url = "https://duckduckgo.com"
+bg_color = "#de5833"
+txt_color = "#FFFFFF"
+tags = ["search"]
+
+[[tiles]]
+name = "Ellipsus"
+url = "https://ellipsus.com"
+bg_color = "#282825"
+txt_color = "#FFFFFF"
+tags = ["work"]
+
+[[tiles]]
+name = "Etsy"
+url = "https://etsy.com"
+bg_color = "#f1641d"
+txt_color = "#000000"
+tags = ["shopping"]
+
+[[tiles]]
+name = "GitHub"
+url = "https://github.com"
+bg_color = "#24292E"
+txt_color = "#FFFFFF"
+tags = ["favorite", "tools"]
+
+[[tiles]]
+name = "Glowdocs"
+url = "https://glowdocs.com/p/jam"
+bg_color = "#242424"
+txt_color = "#FFFFFF"
+tags = ["work"]
+
+[[tiles]]
+name = "Handbook of Well-being"
+url = "https://expiltay.github.io/handbookofwellbeing/index.html"
+bg_color = "#fefaf7"
+txt_color = "#000000"
+tags = ["books"]
+
+[[tiles]]
+name = "Hennepin County Library"
+url = "https://www.hclib.org"
+bg_color = "#0158a4"
+txt_color = "#FFFFFF"
+tags = ["books"]
+
+[[tiles]]
+name = "Hiring Cafe"
+url = "https://hiring.cafe"
+bg_color = "#ec4899"
+txt_color = "#FFFFFF"
+tags = ["speed"]
+
+[[tiles]]
+name = "Imginn (Instagram alt)"
+url = "https://imginn.com/"
+bg_color = "#be466f"
+txt_color = "#FFFFFF"
+tags = ["photos"]
+
+[[tiles]]
+name = "Kagi News"
+url = "https://kite.kagi.com/"
+bg_color = "#101828"
+txt_color = "#FFFFFF"
+tags = ["data"]
+
+[[tiles]]
+name = "Legible News"
+url = "https://legiblenews.com/"
+bg_color = "#07b6d4"
+txt_color = "#FFFFFF"
+tags = ["data"]
+
+[[tiles]]
+name = "LinkedIn"
+url = "https://linkedin.com"
+bg_color = "#0b66c2"
+txt_color = "#FFFFFF"
+tags = ["speed"]
+
+[[tiles]]
+name = "NewsNow"
+url = "https://www.newsnow.com/ca/"
+bg_color = "#c41a11"
+txt_color = "#FFFFFF"
+tags = ["data"]
+
+[[tiles]]
+name = "NPR"
+url = "https://text.npr.org/"
+bg_color = "#247bbd"
+txt_color = "#FFFFFF"
+tags = ["data"]
+
+[[tiles]]
+name = "Oscean"
+url = "https://wiki.xxiivv.com/site/oscean.html"
+bg_color = "#000000"
+txt_color = "#FFFFFF"
+tags = ["tools"]
+
+[[tiles]]
+name = "OTechy"
+url = "https://now.otechy.com/"
+bg_color = "#1c73e8"
+txt_color = "#FFFFFF"
+tags = ["data"]
+
+[[tiles]]
+name = "Penpot"
+url = "https://penpot.app"
+bg_color = "#141034"
+txt_color = "#FFFFFF"
+tags = ["tools"]
+
+[[tiles]]
+name = "Perplexity"
+url = "https://perplexity.ai"
+bg_color = "#1f7c8a"
+txt_color = "#FFFFFF"
+tags = ["tools"]
+
+[[tiles]]
+name = "pixelfed"
+url = "https://pixelfed.social/i/web"
+bg_color = "#3c82f6"
+txt_color = "#FFFFFF"
+tags = ["photos"]
 
 [[tiles]]
 name = "Reddit"
 url = "https://reddit.com"
 bg_color = "#FF4500"
 txt_color = "#FFFFFF"
+tags = ["social"]
 
 [[tiles]]
-name = "Twitch"
-url = "https://twitch.tv"
-bg_color = "#9146FF"
+name = "TRMNL official plugins"
+url = "https://trmnl.com/integrations"
+bg_color = "#e8e7e4"
+txt_color = "#000000"
+tags = ["tools"]
+
+[[tiles]]
+name = "TRMNL community recipes"
+url = "https://trmnl.com/recipes"
+bg_color = "#151515"
+txt_color = "#ffffff"
+tags = ["tools"]
+
+[[tiles]]
+name = "Xcancel (Twitter alt)"
+url = "https://xcancel.com/"
+bg_color = "#121212"
+txt_color = "#ff6c60"
+tags = ["social"]
+
+[[tiles]]
+name = "Raspberry Pi Guide"
+url = "https://raspberrypi-guide.github.io"
+bg_color = "#7fbe58"
+txt_color = "#FFFFFF"
+tags = ["tools"]
+
+[[tiles]]
+name = "Raspberry Tips"
+url = "https://raspberrytips.com"
+bg_color = "#c61d4a"
+txt_color = "#FFFFFF"
+tags = ["tools"]
+
+[[tiles]]
+name = "Scribe (Medium alt)"
+url = "https://scribe.rawbit.ninja/"
+bg_color = "#151515"
+txt_color = "#dddddd"
+tags = ["tools"]
+
+[[tiles]]
+name = "streets.mn"
+url = "https://streets.mn"
+bg_color = "#e3712f"
+txt_color = "#FFFFFF"
+tags = ["data"]
+
+[[tiles]]
+name = "Tubi"
+url = "https://tubi.tv"
+bg_color = "#e3712f"
 txt_color = "#FFFFFF"
 tags = ["video"]
+
+[[tiles]]
+name = "UXNTAL"  
+url = "https://wiki.xxiivv.com/site/uxntal.html"
+bg_color = "#9146FF"
+txt_color = "#f2f637"
+tags = ["tool"]
+
+[[tiles]]
+name = "Wikimedia Commons"
+url = "https://commons.wikimedia.org"
+bg_color = "#006499"
+txt_color = "#970000"
+tags = ["media"]
+
+[[tiles]]
+name = "YouTube"
+url = "https://youtube.com"
+bg_color = "#ff0032"
+txt_color = "#FFFFFF"
+tags = ["favorite", "video"]
+
+[[tiles]]
+name = "Zola Docs"
+url = "https://www.getzola.org/documentation/getting-started/overview/"
+bg_color = "#191919"
+txt_color = "#FFFFFF"
+tags = ["tools"]
+
+[[tiles]]
+name = "Zola Themes Collection"
+url = "https://salif.github.io/zola-themes-collection/"
+bg_color = "#f6f8fa"
+txt_color = "#171717"
+tags = ["tools"]

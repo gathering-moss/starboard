@@ -8,11 +8,11 @@
         <div class="tile" data-groups="{% if tile.tags %}{{ tile.tags | join(sep=',') }}{% endif %}">
             <a href="{{ tile.url }}" 
                {% if jump %}target="_blank" rel="noopener noreferrer"{% endif %}
-               class="block tile-hover rounded-2xl p-6 h-32 flex flex-col items-center justify-center text-center"
+               class="block tile-hover rounded-2xl p-6 h-40 flex flex-col items-center justify-center text-center"
                style="{% if tile.bg_color %}background: linear-gradient(135deg, {{ tile.bg_color }}CC, {{ tile.bg_color }}99);{% else %}background: rgba(255,255,255,0.1);{% endif %}backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2);">
                 
                 <!-- Icon/Letter -->
-                <div class="tile-icon w-12 h-12 rounded-xl flex items-center justify-center mb-3 text-2xl font-bold"
+                <div class="tile-icon w-16 h-16 rounded-xl flex items-center justify-center text-4xl font-bold text-center leading-none"
                      style="{% if tile.bg_color %}background-color: {{ tile.bg_color }};{% else %}background: rgba(255,255,255,0.2);{% endif %}{% if tile.txt_color %}color: {{ tile.txt_color }};{% else %}color: #FFFFFF;{% endif %}"
                      data-name="{{ tile.name }}">
                     {{ tile.name }}
@@ -24,7 +24,7 @@
             
             <!-- Title -->
             <div class="tile-title mt-3 text-center">
-                <h3 class="text-sm font-medium text-white truncate">{{ tile.name }}</h3>
+                <h3 class="text-base font-medium text-white truncate font-vt323">{{ tile.name }}</h3>
             </div>
         </div>
     {% endfor %}

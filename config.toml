@@ -1,12 +1,18 @@
 base_url = "http://localhost:1111"
-title = "Modern Landing Grid"
-description = "A beautiful, responsive landing page with your favorite tools and websites"
+title = "Starboard"
+description = "Steering to my favorite places"
 
 theme = "landing-grid"
 
 [extra]
 favicon = "favicon.ico"
 open_links_in_new_window = true
+subtitle = "To those whose business is in the grey discomfortable sea… and to those who fish, Hekate of the many names stands by and helps"
+
+[[extra.nav]]
+name = "book"
+tag = "book"
+icon = "book"
 
 [[extra.nav]]
 name = "favorites"
@@ -14,9 +20,24 @@ tag = "favorite"
 icon = "star"
 
 [[extra.nav]]
+name = "photos"
+tag = "photos"
+icon = "camera"
+
+[[extra.nav]]
+name = "video"
+tag = "video"
+icon = "play"
+
+[[extra.nav]]
 name = "search"
 tag = "search"
 icon = "search"
+
+[[extra.nav]]
+name = "social"
+tag = "social"
+icon = "users"
 
 [[extra.nav]]
 name = "shopping"
@@ -24,11 +45,11 @@ tag = "shopping"
 icon = "shopping-bag"
 
 [[extra.nav]]
-name = "music"
-tag = "music"
-icon = "music"
+name = "tools"
+tag = "tools" 
+icon = "wrench"
 
 [[extra.nav]]
-name = "video"
-tag = "video"
-icon = "play"
+name = "work"
+tag = "work"
+icon = "briefcase"
